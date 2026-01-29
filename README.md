@@ -1,5 +1,11 @@
 # ai-secret-scan
 
+[![npm version](https://img.shields.io/npm/v/ai-secret-scan.svg)](https://www.npmjs.com/package/ai-secret-scan)
+[![npm downloads](https://img.shields.io/npm/dm/ai-secret-scan.svg)](https://www.npmjs.com/package/ai-secret-scan)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered secret scanner. Finds leaked API keys, credentials, and tokens in your codebase before they hit production.
+
 Scan your codebase for leaked secrets, API keys, and credentials. Pattern matching plus AI analysis.
 
 ## Install
