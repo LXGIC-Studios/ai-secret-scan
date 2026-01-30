@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-secret-scan.svg)](https://www.npmjs.com/package/ai-secret-scan)
 [![npm downloads](https://img.shields.io/npm/dm/ai-secret-scan.svg)](https://www.npmjs.com/package/ai-secret-scan)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-secret-scan)](https://github.com/lxgic-studios/ai-secret-scan/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered secret scanner. Finds leaked API keys, credentials, and tokens in your codebase before they hit production.
 
