@@ -1,5 +1,5 @@
 {
-  "name": "ai-secret-scan",
+  "name": "@lxgicstudios/ai-secret-scan",
   "version": "1.0.0",
   "description": "Scan your codebase for leaked secrets and API keys using AI",
   "main": "dist/index.js",
