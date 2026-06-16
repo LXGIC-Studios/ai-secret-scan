@@ -8,7 +8,7 @@
     "ai-secret-scan": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-secret-scan/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,26 +32,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-secret-scan#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-secret-scan",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "agentic-automation",
-    "automation",
-    "best-practices",
-    "cli",
-    "dev-automation",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "technical-seo",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "secret-detection",
+    "security",
+    "git-secrets",
+    "credential-scan",
+    "pre-commit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -62,7 +49,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-secret-scan"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-secret-scan"
   },
   "scripts": {
     "build": "tsc"
