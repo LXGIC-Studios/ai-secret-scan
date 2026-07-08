@@ -8,7 +8,7 @@
     "ai-secret-scan": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-secret-scan/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -16,7 +16,7 @@
     "ora": "^5.4.1",
     "glob": "^10.3.0"
   },
-  "description": "Scan your codebase for leaked secrets and API keys using AI",
+  "description": "Scan your codebase for leaked secrets and API keys using AI. Detects AWS keys, GitHub tokens, database URLs, and more. Prevent credential leaks before they reach git.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -32,15 +32,34 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-secret-scan",
+  "homepage": "https://github.com/LXGIC-Studios/ai-secret-scan",
   "keywords": [
-    "secret-detection",
     "security",
+    "secrets",
+    "api-keys",
+    "scanning",
+    "token-detection",
+    "git-security",
+    "leak-detection",
+    "ai",
+    "automation",
+    "cli",
+    "developer-tools",
+    "npx",
+    "typescript",
+    "nodejs",
+    "openai",
+    "anthropic",
+    "claude",
+    "cursor",
+    "gpt",
+    "copilot",
+    "devtools",
+    "vibe-coding",
+    "secret-detection",
     "git-secrets",
     "credential-scan",
-    "pre-commit",
-    "june-2026-core-update",
-    "technical-seo"
+    "pre-commit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -51,8 +70,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-secret-scan"
+    "url": "git+https://github.com/LXGIC-Studios/ai-secret-scan.git"
   },
   "scripts": {
     "build": "tsc"
