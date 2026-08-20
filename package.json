@@ -48,10 +48,7 @@
     "git-secrets",
     "git-security",
     "gpt",
-    "leak-detection",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "leak-detection"
   ],
   "license": "MIT",
   "main": "dist/index.js",
